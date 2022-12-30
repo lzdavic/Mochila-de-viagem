@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/peZ6SFH.png"></p>
 
  ### O que é
-**Mochila de viagem** é o projeto feito no [curso](https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador) da [alura](https://www.alura.com.br) sobre armazenamento de dados no navegador utilizando
+**Mochila de viagem** é o projeto feito no [curso](https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador) da [alura](https://www.alura.com.br) sobre armazenamento de dados no navegador utilizando JavaScript
 
 ### Para que serve
 Sabe quando vc tem uma viagem a fazer, e na hora de organizar as cosias fica aquele pensamento: "*será que estou esquecendo algo?*"
