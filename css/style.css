@@ -165,7 +165,7 @@ html {
     .principal {
         flex-direction: column;
         align-items: center;
-        max-width: 400px;
-        min-width: 400px;
+        max-width: auto;
+        min-width: auto;
     }
 }
