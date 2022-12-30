@@ -130,3 +130,11 @@ html {
     font-weight: 400;
 }
 
+.botao-x {
+    background-color: #af342c;
+    height: 2em;
+    width: 2em;
+    border: none;
+    color: #FFFFFF;
+    border-radius: 50%;
+}
