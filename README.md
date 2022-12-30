@@ -23,4 +23,4 @@ Link para o [site](https://mochila-de-viagem-lzdavic.vercel.app)
 <p align="center"><img src="https://i.imgur.com/IzHVUPs.png"></p>
 
 ### Créditos
-Design da Mochila em CSS: [Perfil da Autora no CodePen](https://codepen.io/triciaakatz)
+Design da Mochila em CSS: [@triciaakatz](https://codepen.io/triciaakatz)
