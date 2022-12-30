@@ -11,7 +11,8 @@ A mochila de viagem é uma lista interativa onde você pode inserir os itens que
 ### O que aprendi
 Utilizar e manipular o localStorage do navegador para criar, ler, alterar e deletar dados na máquina local.
 
-
+### Deploy
+Link para o [site](https://mochila-de-viagem-lzdavic.vercel.app)
 
 ### Tecnologias
 - JavaScript
