@@ -141,6 +141,10 @@ html {
     border-radius: 50%;
 }
 
+.botao-x:hover {
+    cursor: pointer;
+}
+
 @media screen and (max-width: 1248px) {
     html {
         height: max-content;
